@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3cfb5333f963537c549db9eb",
+  "owner": "vxspeg9bv",
+  "repo": "page-4584927e68e0ed38f3a97b28",
+  "title": "Xlinkworld",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4584927e68e0ed38f3a97b28",
+      "a": "Xlinkworld",
+      "b": "",
+      "entity": "Xlinkworld",
+      "brand": "Xlinkworld",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ba49a85f16064b530057b3924c96356cb5f089d5e4f9eaa562b3e28f2a7a4256",
+      "content": {
+        "keyword1": "Xlinkworld",
+        "keyword2": "",
+        "primary_entity": "Xlinkworld",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Xlinkworld提供稳定高速的VPN梯子与机场订阅服务，支持多端客户端官方下载，覆盖全球优质节点，适用于流媒体、游戏与跨境办公加速。",
+          "AI_DESCRIPTION": "Xlinkworld提供稳定高速的VPN梯子与机场订阅服务，支持多端客户端官方下载，覆盖全球优质节点，适用于流媒体、游戏与跨境办公加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#f0eef5;color:#1f2937;font-size:16px;line-height:1.65;overflow-x:hidden}a{color:#6d28d9;text-decoration:none}a:hover{text-decoration:underline}header{background:#4c1d95;color:#fff;padding:0.75rem 1rem}.header-inner{max-width:1100px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:0.5rem}.logo{font-size:1.25rem;font-weight:700;color:#fff}nav{display:flex;flex-wrap:wrap;gap:0.75rem}nav a{color:#e9d5ff;font-size:0.95rem}main{max-width:1100px;margin:0 auto;padding:1.25rem 1rem 2rem}h1{font-size:1.75rem;color:#4c1d95;margin:0.5rem 0 1rem;line-height:1.3}h2{font-size:1.35rem;color:#5b21b6;margin:1.75rem 0 0.75rem;border-bottom:2px solid #ddd6fe;padding-bottom:0.3rem}h3{font-size:1.1rem;color:#6d28d9;margin:1rem 0 0.4rem}p,li{margin:0.5rem 0}.lead{font-size:1.05rem;color:#374151}.columns{display:flex;flex-wrap:wrap;gap:1.25rem;margin:1rem 0}.col{flex:1 1 280px;background:#fff;padding:1rem 1.1rem;border-radius:8px;border:1px solid #e5e7eb}.plans{display:flex;flex-wrap:wrap;gap:1rem;align-items:stretch}.plan{flex:1 1 240px;background:#fff;padding:1.25rem;border-radius:10px;border:1px solid #e5e7eb}.plan.featured{border:2px solid #7c3aed;background:#faf5ff}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:0.75rem;padding:0.15rem 0.5rem;border-radius:999px;margin-bottom:0.5rem}.price{font-size:1.5rem;font-weight:700;color:#4c1d95}.annual{font-size:0.9rem;color:#6b7280}.plan ul{padding-left:1.1rem;margin:0.75rem 0}.cta{display:inline-block;margin-top:0.75rem;margin-right:0.4rem;background:#6d28d9;color:#fff;padding:0.45rem 0.9rem;border-radius:6px}.cta:hover{background:#5b21b6;text-decoration:none;color:#fff}ol{padding-left:1.25rem}details{background:#fff;border:1px solid #e5e7eb;border-radius:6px;margin:0.6rem 0;padding:0.6rem 0.9rem}summary{font-weight:600;color:#4c1d95}details p{margin:0.5rem 0 0.2rem;color:#374151}.ads,.friends{background:#fff;padding:1rem;border-radius:8px;border:1px dashed #c4b5fd;margin:1.5rem 0}.friends a{margin-right:1rem;display:inline-block;margin-bottom:0.4rem}footer{background:#1e1b4b;color:#c4b5fd;padding:1.25rem 1rem;font-size:0.9rem}.footer-inner{max-width:1100px;margin:0 auto}footer a{color:#ddd6fe}@media (max-width:640px){h1{font-size:1.45rem}nav{width:100%}.plan{flex:1 1 100%}}</style><header><div class=\"header-inner\"><a class=\"logo\" href=\"#\">Xlinkworld</a><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#download\">客户端下载</a></nav></div></header><main><h1>Xlinkworld 高速机场 VPN 加速器官网</h1><p class=\"lead\">Xlinkworld 是面向个人与团队的网络加速服务，提供机场订阅、VPN 梯子与多平台客户端，帮助用户稳定访问全球内容、加速游戏与跨境协作。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"columns\"><div class=\"col\"><h3>稳定节点与专线体验</h3><p>Xlinkworld 聚焦机场订阅与客户端一体化体验。普通线路覆盖主流地区，旗舰与团队套餐提供 IPLC 专线优化，适合对延迟敏感的游戏与实时会议。节点池持续维护，强调可用性与流媒体解锁能力。</p></div><div class=\"col\"><h3>官方身份与下载入口</h3><p>本站为 Xlinkworld 官方网站。请通过本页套餐说明与客户端下载指引获取订阅，避免第三方倒卖。流量按套餐额度统计，年付可享优惠，账号可在多端导入同一订阅。</p></div></div><p>服务定位于跨境办公、学术资料获取、国际流媒体与海外游戏加速等合法网络加速需求。请遵守当地法律法规使用，并仅从官网核对客户端来源。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>根据流量、设备数与线路等级选择。年付更优惠。以下为当前官网公开套餐，便于对照后再进入官方下载与订阅。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#download\">前往订阅</a></div><div class=\"plan featured\"><span class=\"badge\">推荐</span><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#download\">前往订阅</a></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#download\">前往订阅</a></div></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与远程协作</h3><p>团队版支持多设备与定制路由，适合访问海外协作系统、参加国际视频会议，降低卡顿与中断。</p><h3>流媒体与内容解锁</h3><p>旗舰版全节点原生解锁，便于观看海外影视、音乐与直播；基础版覆盖常用站点，适合轻度观看。</p><h3>游戏加速</h3><p>IPLC 专线针对对延迟敏感的对战与开放世界游戏，减少丢包与高延迟，建议连接后固定低延迟节点。</p><h3>学习研究与资料访问</h3><p>稳定访问学术数据库、开源社区与文档站点，按流量套餐控制成本，适合长期查阅资料的用户。</p></section><section id=\"guide\"><h2>操作说明</h2><p>完成订阅后即可在多端使用。建议收藏本官网以便核对版本、节点公告与官方下载入口。</p><ol><li>在本页对比套餐，确认流量与设备数量后完成官方订阅。</li><li>进入客户端下载专区，按系统选择 Windows、macOS、Android、iOS 或路由器兼容客户端。</li><li>登录账号复制机场订阅链接，在客户端中导入订阅并更新节点列表。</li><li>选择延迟较低的节点连接，流媒体场景优先选择已标注解锁的线路。</li><li>如遇连接问题，先更新订阅再切换节点；旗舰与团队用户可通过优先工单联系支持。</li></ol><p>客户端为轻量配置，导入订阅后即可作为梯子网络加速器使用。请仅从 Xlinkworld 官方网站指引获取安装包。</p></section><section id=\"download\"><h2>客户端下载与机场订阅</h2><p>Xlinkworld 官方下载入口集中在本站。桌面端使用图形客户端导入订阅；移动端支持常见协议；路由器用户可使用兼容固件填写订阅地址。下载前请核对品牌名称，避免仿冒站点。</p><p><a class=\"cta\" href=\"#\">Windows 客户端</a><a class=\"cta\" href=\"#\">macOS 客户端</a><a class=\"cta\" href=\"#\">Android 客户端</a><a class=\"cta\" href=\"#\">iOS 配置说明</a></p><p>订阅链接在用户中心生成，支持一键更新节点。流量用尽后可升级套餐或等待下个计费周期重置。官网、官方网站与官方下载均以本页信息为准。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Xlinkworld 是机场还是传统 VPN？</summary><p>Xlinkworld 同时提供机场订阅与 VPN 加速客户端。用户通过订阅获取节点，在官方客户端中连接，兼顾梯子网络加速与灵活分流。</p></details><details><summary>如何进行官网客户端下载？</summary><p>请停留在本官方网站的客户端下载专区，按操作系统选择对应安装包或配置教程。不要从不明网盘或即时通讯群获取文件。</p></details><details><summary>三个套餐有什么核心区别？</summary><p>基础版适合轻度浏览与基础流媒体；旗舰版增加流量、设备数、原生解锁与 IPLC 游戏优化；团队版面向多成员与企业路由定制，并配备客户经理。</p></details><details><summary>支持同时在线多少设备？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。超出可能被限制新连接，建议按实际终端数量选择套餐。</p></details><details><summary>流量包含哪些用途？是否长期限速？</summary><p>套餐内流量用于全部加速流量统计。常规使用保持极速体验，高峰期普通线路可能共享带宽，旗舰与团队的专线与 VIP 节点优先保障。</p></details><details><summary>能否用于游戏与在线会议？</summary><p>可以。旗舰版强调 IPLC 专线游戏加速，团队版适合会议与协作。具体延迟取决于所在网络到节点的路由，建议连接后测试再固定节点。</p></details><details><summary>更换设备或重装客户端后如何恢复？</summary><p>使用同一账号登录官网用户中心即可再次复制订阅。更换设备时导入同一订阅即可，注意不要超过套餐设备上限。</p></details></section><section class=\"ads\" id=\"ads\"><h2>广告与合作</h2><p>Xlinkworld 官方合作与展示位招募中。如需品牌联合推广、渠道分发或企业批量加速方案，请通过官网公示的客户经理通道联系，谢绝非官方代理宣传。</p></section><section class=\"friends\" id=\"links\"><h2>友情链接</h2><p><a href=\"#\">网络加速资讯</a><a href=\"#\">跨境办公手册</a><a href=\"#\">流媒体解锁指南</a><a href=\"#\">客户端协议说明</a><a href=\"#\">站点地图</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"footer-inner\"><p>Xlinkworld 官方网站 · 机场订阅与 VPN 梯子客户端下载</p><p><a href=\"#\">首页</a> · <a href=\"#plans\">套餐</a> · <a href=\"#download\">官方下载</a> · <a href=\"#\">网站地图</a></p><p>请合理使用网络加速服务并遵守适用法律。本页为静态介绍，具体开通以账户内套餐为准。</p></div></footer>",
+          "hash": "79b6e58f1d642cb5463fb6825a5ed55de17b1eb0dfd1c49740a50e05217587b8",
+          "seo": {
+            "title": "Xlinkworld官网 | VPN梯子网络加速与机场订阅客户端下载",
+            "keywords": "Xlinkworld,Xlinkworld机场,Xlinkworld VPN,VPN梯子,网络加速,加速器,机场订阅,客户端下载,官网下载,IPLC专线",
+            "description": "Xlinkworld提供稳定高速的VPN梯子与机场订阅服务，支持多端客户端官方下载，覆盖全球优质节点，适用于流媒体、游戏与跨境办公加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lskxcsq.cn",
+    "host": "p-30cf083c71.lskxcsq.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "lskxcsq.cn",
+      "url": "https://lskxcsq.cn/",
+      "label": "奶油(CreamData)",
+      "apex": "lskxcsq.cn",
+      "kind": null,
+      "identity": "qvrvvhyp/page-6ff181bc4a01a5b28cc7d50a"
+    },
+    {
+      "host": "idozuoq.cn",
+      "url": "https://idozuoq.cn/",
+      "label": "Xlinkworld",
+      "apex": "idozuoq.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6155513668d22156690a5d86"
+    },
+    {
+      "host": "re-meditech.cn",
+      "url": "https://re-meditech.cn/",
+      "label": "Xlinkworld",
+      "apex": "re-meditech.cn",
+      "kind": null,
+      "identity": "wegyvj/page-fae7427f4532558527829b65"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "105d60982fb4cbc73b458b8d0de5c2e7d498e69630cebc30045c8facd7eede97",
+    "sitemap.xml": "03d2624558b2e776232809aa01a99686b3112b0555aa948efb8805b56cad3d7a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cbcfe410b25ac9a7063a0b2d6297fa5b38e0844a5cb679733b67aed90217cc64",
+    "robots.txt": "76c7942a7acbf283dc9c8f512e23b392e5b1fbc836132aadf7c0189687f13f59",
+    "0a7fbdea8904adedda1b95b8e048fd49.txt": "94cc013c5655648ac25eec2ff08e740e6c31fc9cc65f52692753fb7cd3acb6ea"
+  },
+  "revision": "dc3a501c0fefd86b298568569453bcf3e890ff925359bc39f98f6ac015bfc50c"
+}
